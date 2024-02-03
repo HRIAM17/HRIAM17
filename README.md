@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Automatic Car Number Plate Detection**
 
-- 🌱 I’m currently learning **MQL4 and AFL**
+- 🌱 I’m currently working on **Research paper on linked predictions on Signed Networks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HRIAM17](https://github.com/HRIAM17)
 
